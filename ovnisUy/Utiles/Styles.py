@@ -1,0 +1,1 @@
+RESURSOS = ["index.css"]
