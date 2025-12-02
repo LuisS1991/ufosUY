@@ -1,0 +1,74 @@
+[
+  {
+    "id": "06d5de02-4923-4bfa-a085-8faa0d05ffb8",
+    "title": "Luces blancas sobre el Atlántico",
+    "location": "Punta del Este",
+    "description": "Múltiples luces blancas brillantes maniobhando sobre el océano durante 45 minutos. El objeto cambió de dirección instantáneamente sin sonido aparente.",
+    "date_of_event": "2024-03-12",
+    "witnesses_count": 23,
+    "sighting_type": "luces",
+    "evidence_type": "fotografías, video",
+    "verification_status": "verificado",
+    "created_at": "2025-12-02 00:30:59.571974+00"
+  },
+  {
+    "id": "7e6e454e-cc22-4f07-8917-35e7d373ba1e",
+    "title": "Objeto triangular silencioso",
+    "location": "Colonia del Sacramento",
+    "description": "Estructura oscura de forma triangular desplazándose a baja altitud. Testigos reportan maniobras imposibles para aeronaves convencionales.",
+    "date_of_event": "2024-02-28",
+    "witnesses_count": 8,
+    "sighting_type": "objeto",
+    "evidence_type": "testimonios, video",
+    "verification_status": "investigando",
+    "created_at": "2025-12-02 00:30:59.571974+00"
+  },
+  {
+    "id": "bd733738-8544-4b06-8f99-1c8d67fb5439",
+    "title": "Formación de luces en el cielo",
+    "location": "Montevideo",
+    "description": "Tres luces alineadas que se movían en formación perfecta. Luego se dispersaron a alta velocidad.",
+    "date_of_event": "2024-02-15",
+    "witnesses_count": 15,
+    "sighting_type": "luces",
+    "evidence_type": "fotografías",
+    "verification_status": "investigando",
+    "created_at": "2025-12-02 00:30:59.571974+00"
+  },
+  {
+    "id": "07fd8aa2-21b5-4e46-be5d-8e71b27de133",
+    "title": "Interferencia electromagnética anómala",
+    "location": "Maldonado",
+    "description": "Reportes de apagones coincidentes con fenómenos luminosos en el cielo. Equipos detectaron anomalías electromagnéticas.",
+    "date_of_event": "2024-01-20",
+    "witnesses_count": 12,
+    "sighting_type": "otro",
+    "evidence_type": "datos instrumentales",
+    "verification_status": "investigando",
+    "created_at": "2025-12-02 00:30:59.571974+00"
+  },
+  {
+    "id": "7e21b05f-554d-42be-94db-12eb8a5bc156",
+    "title": "Avistamiento en la costa de Rocha",
+    "location": "Rocha",
+    "description": "Objeto esférico que emitía luz propia, observado por pescadores durante la madrugada. Se alejó a velocidad extraordinaria.",
+    "date_of_event": "2024-01-10",
+    "witnesses_count": 5,
+    "sighting_type": "objeto",
+    "evidence_type": "testimonios",
+    "verification_status": "sin_verificar",
+    "created_at": "2025-12-02 00:30:59.571974+00"
+  },
+  {
+    "id": "1f6d6fb2-1cfd-453c-aec1-0c778a8aa584",
+    "title": "Luces nocturnas en Salto",
+    "location": "Salto",
+    "description": "Fenómeno luminoso repetitivo durante varias noches consecutivas. Patrones de movimiento regulares y controlados.",
+    "date_of_event": "2024-01-05",
+    "witnesses_count": 31,
+    "sighting_type": "luces",
+    "evidence_type": "video, fotografías",
+    "verification_status": "investigando",
+    "created_at": "2025-12-02 00:30:59.571974+00"
+  }
+]
